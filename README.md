@@ -2,7 +2,7 @@
 Place to deposit usefull FIJI macros developed by EMCU staff of students
 
 ## List of scripts:
-* [### Stack summarizer and downscaler](https://github.com/elsc-microscopy/Python-Scripts/blob/main/Stack%20summarizer%20and%20downscaler.ipynb)
+* ###[Stack summarizer and downscaler](https://github.com/elsc-microscopy/Python-Scripts/blob/main/Stack%20summarizer%20and%20downscaler.ipynb)
 
 This script contains the code for:
  * Summarizing the images from the given folder(s) into the float32 2-channel ImageJ-compatible tiff-image
