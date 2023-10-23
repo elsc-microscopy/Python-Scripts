@@ -1,8 +1,8 @@
 # Python-Scripts
 Place to deposit usefull FIJI macros developed by EMCU staff of students
 
-##List of scripts:
-* ###Stack summarizer and downscaler:
+## List of scripts:
+* ### Stack summarizer and downscaler:
 
 This script contains the code for:
  * Summarizing the images from the given folder(s) into the float32 2-channel ImageJ-compatible tiff-image
